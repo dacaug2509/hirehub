@@ -1,0 +1,11 @@
+You can copy the below mentioned platform and go to your PG Diploma project, select PG-DAC project then go to the platform used, select Other and then paste this technology sequence as it is and save your project details.
+
+Platform used:
+
+Java,C#,.NET Core Web API,Entity Framework,Spring Boot REST API,Microservices,React JS,MySQL,GitHub
+
+Project duration - 1 month.
+
+The GitHub link should be the Main Repository for your project. refer video available in the LMS related GITHUB.
+
+Project Description : We strongly suggest to review your project description from your project mentor.  
