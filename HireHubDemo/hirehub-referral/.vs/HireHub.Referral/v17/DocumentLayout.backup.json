@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\HireHubDemo\\hirehub-referral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\controllers\\referalresponsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:controllers\\referalresponsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\controllers\\referralcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:controllers\\referralcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\dtos\\referralresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:dtos\\referralresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\repositories\\referralrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:repositories\\referralrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\migrations\\20260202153504_addreferralstatusanduniqueindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:migrations\\20260202153504_addreferralstatusanduniqueindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\services\\referralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:services\\referralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\models\\referralentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:models\\referralentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\services\\ireferralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:services\\ireferralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\dtos\\referralrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:dtos\\referralrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\models\\referralstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:models\\referralstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|f:\\hirehubdemo\\hirehub-referral\\controllers\\debugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2354BBCB-F46C-0225-47F1-7395B809A85F}|HireHub.Referral.csproj|solutionrelative:controllers\\debugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReferalResponseController.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Controllers\\ReferalResponseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReferalResponseController.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Controllers\\ReferalResponseController.cs",
+              "RelativeToolTip": "Controllers\\ReferalResponseController.cs",
+              "ViewState": "AgIAAAoAAACgmZmZmZkhwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:02:11.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReferralResponseDto.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Dtos\\ReferralResponseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ReferralResponseDto.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Dtos\\ReferralResponseDto.cs",
+              "RelativeToolTip": "Dtos\\ReferralResponseDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:35:44.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReferralRepository.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Repositories\\ReferralRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ReferralRepository.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Repositories\\ReferralRepository.cs",
+              "RelativeToolTip": "Repositories\\ReferralRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:30:19.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReferralController.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Controllers\\ReferralController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReferralController.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Controllers\\ReferralController.cs",
+              "RelativeToolTip": "Controllers\\ReferralController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:54:05.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReferralService.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Services\\ReferralService.cs",
+              "RelativeDocumentMoniker": "Services\\ReferralService.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Services\\ReferralService.cs",
+              "RelativeToolTip": "Services\\ReferralService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:38:58.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwPTcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:59:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260202153504_AddReferralStatusAndUniqueIndex.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Migrations\\20260202153504_AddReferralStatusAndUniqueIndex.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260202153504_AddReferralStatusAndUniqueIndex.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Migrations\\20260202153504_AddReferralStatusAndUniqueIndex.cs",
+              "RelativeToolTip": "Migrations\\20260202153504_AddReferralStatusAndUniqueIndex.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:35:05.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReferralStatus.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Models\\ReferralStatus.cs",
+              "RelativeDocumentMoniker": "Models\\ReferralStatus.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Models\\ReferralStatus.cs",
+              "RelativeToolTip": "Models\\ReferralStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:56:50.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:21:42.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:22:06.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReferralService.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Services\\IReferralService.cs",
+              "RelativeDocumentMoniker": "Services\\IReferralService.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Services\\IReferralService.cs",
+              "RelativeToolTip": "Services\\IReferralService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:38:53.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReferralEntity.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Models\\ReferralEntity.cs",
+              "RelativeDocumentMoniker": "Models\\ReferralEntity.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Models\\ReferralEntity.cs",
+              "RelativeToolTip": "Models\\ReferralEntity.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:21:40.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReferralRequestDto.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Dtos\\ReferralRequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ReferralRequestDto.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Dtos\\ReferralRequestDto.cs",
+              "RelativeToolTip": "Dtos\\ReferralRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:12:14.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:28:26.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:42:27.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DebugController.cs",
+              "DocumentMoniker": "F:\\HireHubDemo\\hirehub-referral\\Controllers\\DebugController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DebugController.cs",
+              "ToolTip": "F:\\HireHubDemo\\hirehub-referral\\Controllers\\DebugController.cs",
+              "RelativeToolTip": "Controllers\\DebugController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:22:12.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

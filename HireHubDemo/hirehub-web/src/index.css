@@ -1,0 +1,155 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sidebar-bg: #0f172a;
+  /* Dark Blue/Black for sidebar */
+  --content-bg: #f3f4f6;
+  /* Light Gray for main content */
+  --card-bg: #ffffff;
+  --primary-blue: #2563eb;
+  --text-main: #1f2937;
+  --text-muted: #6b7280;
+}
+
+body {
+  @apply bg-gray-100 text-gray-900 font-sans antialiased;
+}
+
+/* Auth Pages Background */
+.auth-bg {
+  background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-center: center;
+}
+
+/* Dashboard Layout */
+.dashboard-container {
+  @apply flex min-h-screen bg-gray-100;
+}
+
+.sidebar {
+  @apply w-64 bg-slate-900 text-white flex flex-col fixed h-full z-20 transition-all duration-300;
+}
+
+.main-content {
+  @apply flex-1 ml-64 p-8 overflow-y-auto bg-gray-50;
+}
+
+/* Cards */
+.card-white {
+  @apply bg-white rounded-xl shadow-sm border border-gray-100 p-6 transition-all duration-200 hover:shadow-md;
+}
+
+/* Inputs */
+.input-clean {
+  @apply w-full bg-gray-50 border-b-2 border-gray-200 px-4 py-3 text-gray-900 focus:outline-none focus:border-blue-600 transition-colors placeholder-gray-400;
+}
+
+.input-field {
+  /* Keeping class name for compatibility but updating style */
+  @apply w-full bg-white border border-gray-300 rounded-lg px-4 py-2.5 text-gray-900 focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 outline-none transition-all;
+}
+
+/* Buttons */
+.btn-primary {
+  @apply bg-[#0f172a] text-white font-bold py-3 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-0.5 active:translate-y-0 text-xs tracking-widest uppercase;
+}
+
+.btn-accent {
+  @apply bg-blue-600 text-white font-bold py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors shadow-blue-500/20 shadow-lg;
+}
+
+.btn-secondary {
+  @apply bg-white/10 hover:bg-white/20 text-white font-semibold py-3 px-6 rounded-xl transition-all duration-300 border border-white/10;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.delay-100 {
+  animation-delay: 100ms;
+}
+
+.delay-200 {
+  animation-delay: 200ms;
+}
+
+.delay-300 {
+  animation-delay: 300ms;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-700/50 rounded-full hover:bg-slate-600/80 transition-colors;
+}
+
+/* Card Gradients for Roles */
+.card-gradient-1 {
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(99, 102, 241, 0.05));
+}
+
+.card-gradient-2 {
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.1), rgba(168, 85, 247, 0.05));
+}
+
+.card-gradient-3 {
+  background: linear-gradient(135deg, rgba(236, 72, 153, 0.1), rgba(236, 72, 153, 0.05));
+}
+
+
+
+/* ===== HireHub Premium Dashboard UI ===== */
+
+.section-title {
+  @apply text-2xl font-extrabold text-gray-800 flex items-center gap-2;
+}
+
+.section-subtitle {
+  @apply text-sm text-gray-500;
+}
+
+.glass-card {
+  @apply bg-white/70 backdrop-blur-lg rounded-2xl shadow-md border border-white/40 p-6 transition-all hover:shadow-xl;
+}
+
+.action-btn {
+  @apply px-4 py-2 rounded-lg font-bold text-sm transition-all shadow hover:shadow-lg;
+}
+
+.action-primary {
+  @apply bg-purple-600 text-white hover:bg-purple-700;
+}
+
+.action-secondary {
+  @apply bg-blue-100 text-blue-600 hover:bg-blue-200;
+}
+
+.action-danger {
+  @apply bg-red-100 text-red-600 hover:bg-red-200;
+}

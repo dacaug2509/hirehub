@@ -1,0 +1,206 @@
+[
+  {
+    "ContainingType": "HireHub.Referral.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "HireHub.Referral.Dtos.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.DebugController",
+    "Method": "Info",
+    "RelativePath": "api/debug/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.DebugController",
+    "Method": "Ping",
+    "RelativePath": "api/debug/ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferalResponseController",
+    "Method": "GetReferralsByEmployee",
+    "RelativePath": "api/referal/employee/{empId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "SearchCandidates",
+    "RelativePath": "api/referral/candidates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "GetCompanyReferrals",
+    "RelativePath": "api/referral/company/{companyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "GetMyReferrals",
+    "RelativePath": "api/referral/employee/my-referrals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "GetEmployeeReferralsById",
+    "RelativePath": "api/referral/employees/{employeeId}/referrals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "GetJobReferrals",
+    "RelativePath": "api/referral/job/{jobId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "GetCompanyJobs",
+    "RelativePath": "api/referral/jobs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "GetJobApplicants",
+    "RelativePath": "api/referral/jobs/{jobId}/applicants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "GetJobDetails",
+    "RelativePath": "api/referral/jobs/{jobId}/details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "Ping",
+    "RelativePath": "api/referral/ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "GetProfile",
+    "RelativePath": "api/referral/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HireHub.Referral.Controllers.ReferralController",
+    "Method": "ReferCandidate",
+    "RelativePath": "api/referral/refer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HireHub.Referral.Dtos.ReferralRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

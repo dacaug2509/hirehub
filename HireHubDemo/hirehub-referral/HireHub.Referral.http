@@ -1,0 +1,6 @@
+@HireHub.Referral_HostAddress = http://localhost:5223
+
+GET {{HireHub.Referral_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

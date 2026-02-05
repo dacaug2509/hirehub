@@ -1,0 +1,8 @@
+D:\HireHubDemo\hirehub-referral\obj\Debug\net9.0\HireHub.Referral.csproj.AssemblyReference.cache
+D:\HireHubDemo\hirehub-referral\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\HireHubDemo\hirehub-referral\obj\Debug\net9.0\HireHub.Referral.GeneratedMSBuildEditorConfig.editorconfig
+D:\HireHubDemo\hirehub-referral\obj\Debug\net9.0\HireHub.Referral.AssemblyInfoInputs.cache
+D:\HireHubDemo\hirehub-referral\obj\Debug\net9.0\HireHub.Referral.AssemblyInfo.cs
+D:\HireHubDemo\hirehub-referral\obj\Debug\net9.0\HireHub.Referral.csproj.CoreCompileInputs.cache
+D:\HireHubDemo\hirehub-referral\obj\Debug\net9.0\HireHub.Referral.MvcApplicationPartsAssemblyInfo.cs
+D:\HireHubDemo\hirehub-referral\obj\Debug\net9.0\HireHub.Referral.MvcApplicationPartsAssemblyInfo.cache
